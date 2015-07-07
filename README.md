@@ -6,5 +6,7 @@ I have created this to show you what you're meant to be doing here in GitHub. Th
 
 The text editor that I've chosen is the one in the video, as it's a bit nicer to use than Notepad++ which was my previous favourite text editor. Eventually we can advance to dreamweaver as that basically just allows for a live preview of the code, whereas this doesn't. We may need to advance to dreamweaver when we get onto the CSS. For now, to preview, just drag and drop the .html file into the browser of your choice.
 
+The video https://www.youtube.com/watch?v=0fKg7e37bQE
+
 All good, thanks for reading this lel
 Cappa
